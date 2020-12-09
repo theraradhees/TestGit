@@ -22,7 +22,7 @@
     }
 </style>
 
-<div>
+<div style="text-align: justify">
     <h1>Take appropriate action in case of misidentification</h1>
     <hr>
     <ol type="a">

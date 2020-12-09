@@ -22,9 +22,10 @@
     }
 </style>
 
-<div>
+
     <h1>Surveillance System</h1>
     <hr>
+    <div style="text-align: justify">
     <h2>Primary Surveillance Radar (PSR)</h2>
     <p>
         Where PSR is used for identification, aircraft may be identified by one or more of the following procedures: 
