@@ -39,10 +39,11 @@
     }
 </style>
 
-<div class="a">
+<div style="text-align: center">
     <h1>Maintain Listening on Radio for Any Instructions</h1>
+    <hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
     <ol type="a">
         <li>Once you have entered the Movement Area, you must keep a constant radio listening watch, staying alert to what is happening around you by listening to radio communications</li>
         <li>You should always be within hearing distance of your radio. Often, a change in wind direction or other operational factor will require the Tower to move you from work urgently. Remember that the Tower will not interrupt your work unless it is necessary and that you are then expected to co-operate with all possible speed.</li>
@@ -59,13 +60,14 @@
         <br>
     </ol>
 </div>
-
-<div class="a">
+<hr>
+<br>
+<div style="text-align: center">
     <h1>Appropriate Authorities</h1>
     <hr>
 </div>
 
-<div class="b">
+<div style="text-align: justify">
     <p>
         The movement of pedestrians or vehicles on the maneuvering area shall be subject to authorization by the aerodrome control tower. Persons, including drivers of all vehicles, shall be required to obtain authorization from the aerodrome control tower before entry to the maneuvering area. Notwithstanding such an authorization, entry to a runway or runway strip or change in the operation authorized shall be subject to a further specific authorization by the aerodrome control tower. 
     </p>

@@ -39,11 +39,11 @@ h3::before {
 }
 </style>
 
-<div class="a">
+<div style="text-align: center;">
     <h1>Concerned Parties</h1>
     <hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
     <p>
         At controlled aerodromes all vehicles employed on the maneuvering area shall be capable of maintaining two-way radio communication with the aerodrome control tower, except when the vehicle is only occasionally used on the maneuvering area and is: 
     </p>

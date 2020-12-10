@@ -22,9 +22,11 @@
   }
 </style>
 
-<div>
+<div style="text-align: center">
   <h1>Reporting </h1>
   <hr>
+</div>
+<div style="text-align: justify"
   <p>
     An accident or safety occurrence can indicate that there is a failure with in the safety management system. It is therefore important that all accidents and safety occurrences are reported and investigated. 
   </p>

@@ -39,11 +39,11 @@ h3::before {
 }
 </style>
 
-<div class="a">
+<div style="text-align: center;">
     <h1>Coordination Procedures</h1>
     <hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
 <h2>Coordination with Air Traffic Control Units </h2>
 <h3>General Movement </h3>
 <ol>
@@ -68,3 +68,4 @@ h3::before {
 <p>
     Procedures governing the movement of vehicles vary widely from aerodrome to aerodrome, therefore consider to coordinate with the Station Manager for the instruction.
 </p>
+</div>

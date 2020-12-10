@@ -39,11 +39,11 @@
     }
 </style>
 
-<div class="a">
+<div style="text-align: center">
     <h1>Situation Requiring Pre-entry Permission </h1>
     <hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
     <ol>
         <li>Before Go Out onto the Movement Area </li>
         <ul>
@@ -65,12 +65,19 @@
         <p>
             Signals and their meaning are listed hereunder: 
         </p>
+        <article style="
+            border-color: black;
+            border-width: 3px;
+            border-style: solid;
+            padding: 0px 5px 0px 5px;
+        ">
         <ul>
             <li>GREEN FLASHES - Permission to cross runway or to move on a Taxiway</li>
             <li>STEADY RED - Stop immediately </li>
             <li>RED FLASHES - Move off the runway or taxiway and watch out for aircraft</li>
             <li>WHITE FLASHES - Vacate the Maneuvering Area in accordance with local Handbook </li>
         </ul>
+        </article>>
 
         <li>The meaning of “HOLD”</li>
         <p>

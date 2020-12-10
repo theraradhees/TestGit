@@ -1,68 +1,29 @@
-<style>
-    div.a {
-      text-align: center;
-    } 
-    div.b {
-      text-align: justify;
-    } 
-    #center {
-        text-align: center
-    }
-    
-    #justify {
-        text-align: justify
-    }
-    
-    h1 { 
-        font-weight: bold
-        font-size: 14px
-        text-align:center
-    }
-    p {
-        text-align: justify
-        font-size: 12px
-    
-    }
-    .thin-border {
-        border-color: black;
-        border-width: 3px;
-        border-style: solid;
-    }
-    body {
-  counter-reset: section;
-}
-
-h3::before {
-  counter-increment: section; 
-  content: "" counter(section) ": ";                                   of each h3 */
-}
-</style>
-
-<div class="a">
+<div style="text-align: center;">
     <h1>Radio Telephony Techniques</h1>
     <hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
     <p>
-        The efficient use of two-way radio depends largely on microphone technique, the method of speaking and choice of words used by the operator. 
+        The efficient use of two-way radio depends largely on microphone technique, the method of speaking and choice of words used by the operator.
     </p>
     <p>
-        You should make use of the following principles: 
+        You should make use of the following principles:
     </p>
     <ul>
         <li>
-            Speak plainly and end each word clearly to prevent consecutive words "running together” 
+            Speak plainly and end each word clearly to prevent consecutive words "running together”
         </li>
         <li>Avoid any tendency to shout </li>
         <li>Avoid variations in speech intensity and unusual inflections of the voice </li>
         <li>Avoid hesitant sounds such as "er" and "um" </li>
         <li>Preserve the rhythm of ordinary conversation, avoiding long pauses but retaining oral punctuation (gaps between sentences etc.) </li>
         <li>Maintain a business-like manner and do not use colloquialisms, first names or be unduly familiar with others </li>
-        <li>If improvisation is necessary, make it brief and unambiguous (standard phraseology is best)</li><li>Read each written message before transmission, in order to eliminate unnecessary delay </li>
+        <li>If improvisation is necessary, make it brief and unambiguous (standard phraseology is best)</li>
+        <li>Read each written message before transmission, in order to eliminate unnecessary delay </li>
     </ul>
     <h2>Operated Frequency</h2>
     <p>
-        The following transmitting techniques will assist in ensuring that transmitted speech is clear and satisfactorily received: 
+        The following transmitting techniques will assist in ensuring that transmitted speech is clear and satisfactorily received:
     </p>
     <ul>
         <li>Before transmitting, listen out on the frequency to be used to ensure that there will be no interference with a transmission from another station; </li>
@@ -81,64 +42,71 @@ h3::before {
         <li>Be familiar with the microphone operating techniques, particularly in relation to the maintenance of a constant distance from the microphone if a modulator with a constant level is not used;</li>
         <li>Suspend speech temporarily if it becomes necessary to turn the head away from the microphone; </li>
         <li>Depress the transmit switch fully before speaking and do not release it until the message is completed. This will ensure that the entire message is transmitted; </li>
-        <li>The transmission of long messages should be interrupted momentarily from time to time to permit the transmitting operator to confirm that the frequency in use is clear and, if necessary, to permit the receiving operator to request repetition of parts not received. </li>
-        </ul>
+        <li>The transmission of long messages should be interrupted momentarily from time to time to permit the transmitting operator to confirm that the frequency in use is clear and, if necessary, to permit the receiving operator to request repetition of
+            parts not received. </li>
+    </ul>
     <p>
-        An irritating and potentially dangerous situation in radiotelephony is a “stuck” microphone button. Operators should always ensure that the button is released after a transmission and the microphone placed in an appropriate place ensuring that it will not inadvertently be switched on. 
+        An irritating and potentially dangerous situation in radiotelephony is a “stuck” microphone button. Operators should always ensure that the button is released after a transmission and the microphone placed in an appropriate place ensuring that it will
+        not inadvertently be switched on.
     </p>
     <p>
-        The use of courtesies should be avoided. 
+        The use of courtesies should be avoided.
     </p>
 
     <h2>Radio Equipment</h2>
-    <p><b>Image radio equipment</b></p>
-
-{{-- comment --}}
-
+    <p><b></b></p>
+    <p style="text-align: center;"><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/0.%20Radio%20Equipment.jpg" alt="" role="presentation" style="font-size: 0.85rem;"></p>
+</div>
+<div style="text-align: justify"><br>
     <h2>ICAO Alphabet</h2>
     <h3>Phonetic Alphabet</h3>
     <ul>
         <li>
-            The International Phonetic Alphabet is used to assist in voice transmission of call signs, runway/taxiway designators and the spelling of proper names and unusual words. 
+            The International Phonetic Alphabet is used to assist in voice transmission of call signs, runway/taxiway designators and the spelling of proper names and unusual words.
         </li>
         <li>
             In the phonetic alphabet it is important to have the words pronounced correctly and in the table below it is indicated in bold where the emphasis is.
         </li>
     </ul>
+    <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/1.%20phonetic%20alphabet.PNG" alt="" role="presentation"><br></b></p>
+    <p style="text-align: center;">
+        <b>Phonetic Alphabet&nbsp;</b></p>
     <p>
-        <b>Phonetic Alphabet Image</b>
+        Some abbreviations, which by their common usage have become part of aviation terminology, may be spoken using their constituent letters rather than the spelling alphabet, for example ILS or VOR.
     </p>
-    <p>
-        Some abbreviations, which by their common usage have become part of aviation terminology, may be spoken using their constituent letters rather than the spelling alphabet, for example ILS or VOR. 
-    </p>
-    <p><b>Numerical Image</b></p>
+    <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/2.%20Numeral%20Phonetic.PNG" alt="" role="presentation"><br></b></p>
+    <p style="text-align: center;"><b>Numerical&nbsp;</b></p>
     <h3>Transmission of Numeral </h3>
     <ul>
         <li>
-            The pronunciation of numerals is also very important and the correct use of the numerals must be adhered to. It is a common mistake to use words for example ten, twenty etc. on the radio, but this can cause confusion due to the words not heard clearly therefore the digits will be pronounced separately. All numbers shall be transmitted by pronouncing digit by digit as shown in the table below. 
+            The pronunciation of numerals is also very important and the correct use of the numerals must be adhered to. It is a common mistake to use words for example ten, twenty etc. on the radio, but this can cause confusion due to the words not heard clearly
+            therefore the digits will be pronounced separately. All numbers shall be transmitted by pronouncing digit by digit as shown in the table below.
         </li>
         <p>
             <i>Note : The syllables printed in bold are to be stressed; for example, the two syllables in ZE-RO are given equal emphasis, whereas the first syllable of FOW-er is given primary emphasis. </i>
         </p>
         <li>
-            In general, numbers except whole thousands, are to be transmitted by pronouncing each digit separately, e.g. 
+            In general, numbers except whole thousands, are to be transmitted by pronouncing each digit separately, e.g.
         </li>
-        <p>
+        <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/3.%20Numeral%20Phonetic.PNG" alt="" role="presentation"><br></b></p>
+        <p style="text-align: center;">
             <b>Number Pronunciation</b>
         </p>
         <li>
-            Numbers containing a decimal point shall be transmitted with the decimal point in appropriate sequence being indicated by the word decimal. 
+            Numbers containing a decimal point shall be transmitted with the decimal point in appropriate sequence being indicated by the word decimal.
         </li>
-        <p>
+        <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/4.%20Decimal%20Phonetic.PNG" alt="" role="presentation"><br></b></p>
+        <p style="text-align: center;">
             <b>Decimal Pronunciation</b>
         </p>
         <li>
-            Runway is transmitted as: 
+            Runway is transmitted as:
         </li>
-        <p><b>Runway transmitted</b></p>
+        <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/5.%20Runway%20Phonetic.PNG" alt="" role="presentation"><br></b></p>
+        <p style="text-align: center;"><b>Runway transmitted</b></p>
         <li>Signal Strength</li>
         <p>
-            Readability of radio signals (i.e. how well a transmission is able to be heard) is categorized as follows: 
+            Readability of radio signals (i.e. how well a transmission is able to be heard) is categorized as follows:
         </p>
         <ul>
             <li>Unreadable</li>
@@ -150,11 +118,13 @@ h3::before {
     </ul>
     <h2>ICAO Phraseology</h2>
     <p>
-        The following words and phrases shall be used in radiotelephony communications as appropriate and shall have the meaning given below. 
+        The following words and phrases shall be used in radiotelephony communications as appropriate and shall have the meaning given below.
     </p>
-    <p>
-        <b>
-            Phraseology Table
+    <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/6.%20ICAO%20Phraseology%20A.PNG" alt="" role="presentation"><br></b></p>
+    <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/7.%20ICAO%20Phraseology%20B.PNG" alt="" role="presentation"><br></b></p>
+    <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/8.ICAO%20Phraseology%20C.PNG" alt="" role="presentation"><br></b></p>
+    <p style="text-align: center;">
+        <b>ICAO Phraseology Table
         </b>
     </p>
     <ol>
@@ -169,11 +139,10 @@ h3::before {
         </ul>
     </ol>
     <p>Examples:</p>
-    <p>
+    <p style="text-align: center;"><b><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/9.%20Repetition.PNG" alt="" role="presentation"><br></b></p>
+    <p style="text-align: center;">
         <b>
-            Say Again Examples
-        </b>
-    </p>
+            Say Again Examples (Repetition)</b></p>
     <ul>
         <li>When a vehicle is called but is uncertain of the identity of the calling station, the calling station should be requested to repeat its call sign until the identity is established. </li>
         <li>When an error is made in a transmission, the word “CORRECTION” shall be spoken, the last correct group or phrase repeated and then the correct version transmitted. </li>
@@ -184,16 +153,10 @@ h3::before {
     <p>
         Example:
     </p>
-    <p>
-        <b>
-            a. 
-            <br>
-            b.
-        </b>
-
-    </p>
-    
-  
-
-
-
+    <p></p>
+    <p style="text-align: center;"><b style="font-size: 0.85rem;">a.&nbsp;<img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/10.%20ex%201.PNG" alt="" role="presentation"></b></p>
+    <p style="text-align: center;"><b style="font-size: 0.85rem;"><br></b></p>
+    <b><p style="text-align: center;"><b style="font-size: 0.85rem;">b.<img src="https://www.trainairplus.id/draftfile.php/5/user/draft/755418407/11.%20ex%202.PNG" alt="" role="presentation"></b></p>
+    </b>
+    <p></p>
+</div>

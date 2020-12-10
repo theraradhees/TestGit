@@ -30,11 +30,11 @@
     }
 </style>
 
-<div class="a">
+<div style="text-align: center">
     <h1>Safety Precaution</h1>
     <hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
     <p>
         Hazard identification is a prerequisite to the safety risk management process. Any incorrect differentiation between hazards and safety risks can be a source of confusion. A clear understanding of hazards and their related consequences is essential to the implementation of sound safety risk management.
     </p>

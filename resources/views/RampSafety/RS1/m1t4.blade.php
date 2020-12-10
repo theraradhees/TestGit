@@ -30,11 +30,11 @@
     }
 </style>
 
-<div class="a">
+<div style="text-align: center">
     <h1>Documentation Required</h1><hr>
 </div>
 
-<div class="b">
+<div class="b" style="text-align: justify">
 <p>
     Within ramp area there are required documentation should be taken along together with equipment or personnel who operate in that area:
 </p>

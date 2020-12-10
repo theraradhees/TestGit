@@ -35,15 +35,15 @@
 
     h3::before {
     counter-increment: section; 
-    content: "" counter(section) ": ";                                   of each h3 */
+    content: "" counter(section) ": ";                                 
     }
 
     </style>
     
-    <div class="a">
+    <div style="text-align: center">
     <h1>Safety Culture</h1><hr>
     </div>
-<div class="b">
+<div style="text-align: justify">
     <p>
         Evaluation and the development of an organization’s safety culture is the next step in the improvement of aviation safety. The full advantage and benefits of safety improvement programs are assured and secured in a sound and mature safety culture.
     </p>

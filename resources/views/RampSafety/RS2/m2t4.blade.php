@@ -30,21 +30,21 @@
     }
 </style>
 
-<div class="a">
+<div style="text-align: center">
     <h1>Right of Way</h1>
     <hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
     <p>
         All vehicles and pedestrians shall give way to aircraft which are landing, taxiing  or taking  off,  except  that  emergency  vehicles  proceeding  to  the assistance of an aircraft in distress shall be afforded priority over all other surface movement traffic. In the latter case, all movement of surface traffic should, to the extent practicable, be halted until it is determined that the progress of the emergency vehicles will not be impeded.
     </p>
 </div>
 <hr>
 
-<div class="a">
+<div style="text-align: center">
     <h1>ATC Requirement</h1><hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
     <p>
         The movement of pedestrians or vehicles on the maneuvering area shall be  subject  to  authorization  by  the  aerodrome  control  tower.  Persons, including drivers of all vehicles, shall be required to obtain authorization from the aerodrome control tower before entry to the maneuvering area. Notwithstanding such an authorization, entry to a runway or runway strip or change in the operation authorized shall be subject to a further specific authorization by the aerodrome control tower.
     </p>

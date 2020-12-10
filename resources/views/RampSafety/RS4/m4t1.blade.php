@@ -22,9 +22,11 @@
     }
 </style>
 
-<div>
+<div style="text-align: center">
   <h1>Incident and Accident</h1>
   <hr>
+</div>
+<div style="text-align: justify">
   <h2>Incident</h2>
   <p>
     Definitions by Merriam-Webster Online Dictionary :

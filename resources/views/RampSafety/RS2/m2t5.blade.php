@@ -30,11 +30,11 @@
     }
 </style>
 
-<div class="a">
+<div style="text-align: center">
     <h1>Safety Driving Measures</h1>
     <hr>
 </div>
-<div class="b">
+<div style="text-align: justify">
     <p>
         Anyone driving a vehicle airside (without a follow-me) is required to hold an airside driving license. The use of vehicles airside is to be kept to the minimum consistent with operational requirements.    
     </p>
@@ -86,3 +86,4 @@
         </ul>
 
     </ol>
+</div>
