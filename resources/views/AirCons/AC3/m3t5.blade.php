@@ -27,8 +27,8 @@
 </style>
 <!DOCTYPE html>
 <html lang="en">
-<body>
-    <h1>Equipment degraded situation</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Equipment degraded situation</h1>
     <hr>
     <h2>Ground radio failure</h2>
     <p>In the event of complete failure of the ground radio equipment used for ATC, the controller shall:</p>
@@ -102,5 +102,5 @@
                 whichever is latest, pertinent information concerning the aircraft shall be forwarded to aircraft operators, or their designated representatives, and pilots-in-command of any aircraft concerned and normal control resumed if they so desire. It is the responsibility of the aircraft operators, or their designated representatives, and pilots-in-command of aircraft to determine whether they will resume normal operations or take other action.</li>
         </ol>
     </ol>
-</body>
+</div>
 </html>

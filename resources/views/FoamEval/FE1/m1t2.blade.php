@@ -1,42 +1,20 @@
-<style>
-    h1 { 
-        text-align:center;
-    }
-    p, h2, h3, li {
-        text-align: justify;
-    
-    }
-    .thin-border {
-        border-color: black;
-        border-width: 3px;
-        border-style: solid;
-    }
-
-    body {
-  counter-reset: section;
-    }
-
-    h2::before {
-    counter-increment: section; 
-    content: "1.3." counter(section) ": ";
-    }
-</style>
-<div>
-    <h1>Foam Concentrate Physical Properties Test </h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Foam Concentrate Physical Properties Test </h1>
     <hr>
     <p>
-        Physical property tests often include laboratory measurements of parameters such as pH (acidity/alkalinity), viscosity, specific gravity, sediment and the effects of accelerated ageing. Standards generally contain well defined methods and equipment for the measurement of these properties. The results of these tests can be used to compare the properties of the foam concentrate with minimum/maximum requirement limits set within standards or with previously tested foam concentrates
+        Physical property tests often include laboratory measurements of parameters such as pH (acidity/alkalinity), viscosity, specific gravity, sediment and the effects of accelerated ageing. Standards generally contain well defined methods and equipment for
+        the measurement of these properties. The results of these tests can be used to compare the properties of the foam concentrate with minimum/maximum requirement limits set within standards or with previously tested foam concentrates
     </p>
     <br>
     <h2>Expansion Ratio and Drainage Time Test </h2>
     <p>
-        In order to judge the quality of a foam compound the expansion ratio and foam stability have to be determined. 
+        In order to judge the quality of a foam compound the expansion ratio and foam stability have to be determined.
     </p>
     <p>
-        The <b>expansion ratio</b> is defined as the ratio of final foam volume to original foam solution volume before adding air.
+        The <strong>expansion ratio</strong> is defined as the ratio of final foam volume to original foam solution volume before adding air.
     </p>
     <p>
-        The <b>drainage</b> time is the rate at which the foam solution drops out from the foam mass. Step by step conduct Expansion Ratio And Drainage Time Test.
+        The <strong>drainage</strong> time is the rate at which the foam solution drops out from the foam mass. Step by step conduct Expansion Ratio And Drainage Time Test.
     </p>
     <ol type="A">
         <li>Preparation</li>
@@ -66,14 +44,17 @@
         <p></p>
         <li>Testing Procedure</li>
         <p>
-            Before testing the foam sample container fitted with a drain hose and clamp should be weighed to obtain the tare weight. After that the foam is collected and the stop watch started. The foam sample is weighed to the nearest gram and the expansion calculated from the following equation : 
+            Before testing the foam sample container fitted with a drain hose and clamp should be weighed to obtain the tare weight. After that the foam is collected and the stop watch started. The foam sample is weighed to the nearest gram and the expansion calculated
+            from the following equation :
         </p>
-        <p style="text-align: center"><b>Equation 1</b></p>
+        <p style="text-align: center"><strong><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/181653448/Equation%201.1.PNG" alt="" role="presentation"><br></strong></p>
+        <p style="text-align: center"><strong>Equation 1</strong></p>
         <p>Drainage time testing is to determine the time it takes from the foam into a liquid, </p>
         <ol type="a">
             <li>Standard time 25% drainage time of foam type AFFF (Aqueous Film Forming Foam) is at least 3 minutes. </li>
             <li>Calculation of 25% of the foam mixture into a liquid: </li>
-            <p style="text-align: center"><b>Equation 2</b></p>
+            <p style="text-align: center"><strong><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/181653448/Equation%201.2.PNG" alt="" role="presentation"><br></strong></p>
+            <p style="text-align: center"><strong>Equation 2</strong></p>
         </ol>
 
         <p><u>Testing Procedure Expansion Ratio</u></p>
@@ -85,7 +66,7 @@
             <li>Pressure the tube with pump so that the pressure inside the tube reaches at least 700 kPa and / or 100 psi; </li>
             <li>Foam (mixture of foam added to water that has been pressurized) issued to be accommodated into a 1,000 ml measuring cup;</li>
             <li>Weigh measuring cup containing liquid foam 1000 ml; </li>
-            <li>Weight measuring cup containing liquid foam is reduced by the weight of the empty measuring cup (to determine the net weight of the liquid foam)  </li>
+            <li>Weight measuring cup containing liquid foam is reduced by the weight of the empty measuring cup (to determine the net weight of the liquid foam) </li>
             <li>The result of the division of 1,000 ml of a net weight of the foam is Expansion Ratio. </li>
         </ol>
 
@@ -105,7 +86,8 @@
     <br>
     <h2>pH Value test</h2>
     <p>
-        pH is a measurement of the acidity to alkalinity of a liquid on a scale of 1 to 14. A pH of 7 is neutral (e.g. pure water), a pH of I is very acidic, pH of 14 is very alkaline. Measurements of pH help to give an indication of the corrosion potential of the liquids. 
+        pH is a measurement of the acidity to alkalinity of a liquid on a scale of 1 to 14. A pH of 7 is neutral (e.g. pure water), a pH of I is very acidic, pH of 14 is very alkaline. Measurements of pH help to give an indication of the corrosion potential of
+        the liquids.
     </p>
     <ol type="A">
         <li>Preparation</li>
@@ -142,7 +124,8 @@
     <br>
     <h2>Foam viscosity</h2>
     <p>
-        Viscosity is a measure of how well a liquid will flow. Liquids are generally classed as either being non-Newtonian or Newtonian. A low viscosity is often desirable because it improves the flow characteristics of a foam concentrate through pick up tubes, pipework and induction equipment. The viscosity of the foam concentrate is usually measured either at 20DC or at its minimum use temperature 
+        Viscosity is a measure of how well a liquid will flow. Liquids are generally classed as either being non-Newtonian or Newtonian. A low viscosity is often desirable because it improves the flow characteristics of a foam concentrate through pick up tubes,
+        pipework and induction equipment. The viscosity of the foam concentrate is usually measured either at 20DC or at its minimum use temperature
     </p>
     <ol type="A">
         <li>Preparation</li>
@@ -170,7 +153,8 @@
     <br>
     <h2>Sedimentation Test</h2>
     <p>
-        Sediment is a measure of the amount, as a percentage by volume, of undissolved solids contained in the foam concentrate. Sediment is also sometimes known as sludge. Excess sediment can result in blockage and other serious problems with induction systems and other equipment. 
+        Sediment is a measure of the amount, as a percentage by volume, of undissolved solids contained in the foam concentrate. Sediment is also sometimes known as sludge. Excess sediment can result in blockage and other serious problems with induction systems
+        and other equipment.
     </p>
     <ol type="A">
         <li>Preparation</li>
@@ -193,12 +177,12 @@
             <li>Weigh centrifuge tube along with sediment; </li>
             <li>Calculate the weight of the precipitate using the following formula: </li>
             <p></p>
-            <div class="thin-border">
-                <p style="text-align: center" ><b>foam concentrate weight = total weight (3) - the weight of the empty tube (1) </b></p>
-                <p style="text-align: center" >
-                    Sediment weight = total weight (7) - the weight of the empty tube (1) 
+            <div style="border: black solid 3px">
+                <p style="text-align: center"><strong>foam concentrate weight = total weight (3) - the weight of the empty tube (1) </strong></p>
+                <p style="text-align: center">
+                    Sediment weight = total weight (7) - the weight of the empty tube (1)
                 </p>
-                <p style="text-align: center" >Percentage (%) = sediment (sediment weight / weight of foam concentrate) x 100% </p>
+                <p style="text-align: center">Percentage (%) = sediment (sediment weight / weight of foam concentrate) x 100% </p>
             </div>
         </ol>
         <p></p>
@@ -208,7 +192,7 @@
     <br>
     <h2>Surface Tension Test </h2>
     <p>
-        Testing was conducted to measure the surface tension of the liquid foam solution, the foam solution surface tension specification maximum allowable 0.5 newtons/m2. 
+        Testing was conducted to measure the surface tension of the liquid foam solution, the foam solution surface tension specification maximum allowable 0.5 newtons/m2.
     </p>
     <ol type="A">
         <li>Preparation </li>
@@ -219,7 +203,8 @@
                 <li>250 ml Measuring Glass </li>
             </ul>
             <li>Prepare Test Record Form </li>
-            <p style="text-align: center"><b>Figure 1-7. Form Concentrate Physical Properties Test Form </b></p>
+            <p style="text-align: center"><strong>Figure 1-7. Form Concentrate Physical Properties Test Form </strong></p>
+            <p style="text-align: center"><strong><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/181653448/Figure%201-7.%20Form%20Concentrate%20Physical%20Properties%20Test%20Form.PNG" alt="" role="presentation"><br></strong></p>
             <li>Prepare Foam concentrate and Water to be tested </li>
         </ol>
         <li>Testing Procedures</li>
@@ -233,8 +218,10 @@
     </ol>
     <br>
     <h2>Foam Physical Property Test Worksheet </h2>
-    <p style="text-align: center">Figure 1-8. Foam Physical Property Test Worksheet (Local Worksheet) </p><br>
-    <p style="text-align: center">Figure 1-9. Foam Physical Property Test Worksheet (NFPA Worksheet) </p>
+    <p style="text-align: center"><strong>Figure 1-8. Foam Physical Property Test Worksheet (Local Worksheet) </strong></p>
+    <p style="text-align: center;"><span style="font-size: 13.6px;"><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/181653448/Figure%201-8.%20Foam%20Physical%20Property%20Test%20Worksheet%20%28Local%20Worksheet%29.PNG" alt="" role="presentation"><br></span></p>
+    <p style="text-align: center"><strong>Figure 1-9. Foam Physical Property Test Worksheet (NFPA Worksheet) </strong></p>
+    <p style="text-align: center"><strong><img src="https://www.trainairplus.id/draftfile.php/5/user/draft/181653448/Figure%201-9.%20Foam%20Physical%20Property%20Test%20Worksheet%20%28NFPA%20Worksheet%29.PNG" alt="" role="presentation"><br></strong></p>
 
 
 

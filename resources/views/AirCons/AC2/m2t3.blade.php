@@ -22,8 +22,8 @@
     }
 </style>
 
-<div>
-    <h1>Transfer of control</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Transfer of control</h1>
     <hr>
     <ol type="a">
         <li>Where an ATS surveillance service is being provided, transfer of control should be effected, whenever practicable, so as to enable the uninterrupted provision of the ATS surveillance service.</li>

@@ -27,8 +27,8 @@
 </style>
 <!DOCTYPE html>
 <html lang="en">
-<body>
-    <h1>Emergency Procedures</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Emergency Procedures</h1>
     <hr>
     <p>
         When an emergency is declared by an aircraft, the ATS unit should take appropriate and relevant action as follows:
@@ -51,5 +51,5 @@
         <li>An aircraft known or believed to be in a state of emergency, including being subjected to unlawful interference, shall be given priority over other aircraft.</li>
         <p></p>
     </ol>
-</body>
+</div>
 </html>

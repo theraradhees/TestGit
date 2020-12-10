@@ -29,8 +29,8 @@
 <!DOCTYPE html>
 <html lang="en">
  
-<body>
-    <h1>Failure of Equipment</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Failure of Equipment</h1>
     <hr>
     <h2>
         Aircraft Radio Transmitter Failure
@@ -61,5 +61,5 @@
         <li>When an aircraft experiencing transponder failure after departure is operating or expected to operate in an area where the carriage of a functioning transponder with specified capabilities is mandatory, the ATC units concerned should endeavour to provide for continuation of the flight to the aerodrome of first intended landing in accordance with the flight plan. However, in certain traffic situations, either in terminal areas or en-route, continuation of the flight may not be possible, particularly when failure is detected shortly after take-off. The aircraft may then be required to return to the departure aerodrome or to land at the nearest suitable aerodrome acceptable to the operator concerned and to ATC.</li><p></p>
         <li>In case of a transponder failure which is detected before departure from an aerodrome where it is not practicable to effect a repair, the aircraft concerned should be permitted to proceed, as directly as possible, to the nearest suitable aerodrome where repair can be made. When granting clearance to such aircraft, ATC should take into consideration the existing or anticipated traffic situation and may have to modify the time of departure, flight level or route of the intended flight. Subsequent adjustments may become necessary during the course of the flight.</li>
     </ol>
-</body>
+</div>
 </html>

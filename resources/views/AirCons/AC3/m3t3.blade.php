@@ -27,8 +27,8 @@
 </style>
 <!DOCTYPE html>
 <html lang="en">
-<body>
-    <h1>Unlawful Interference and Aircraft Bomb Threat</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Unlawful Interference and Aircraft Bomb Threat</h1>
     <hr>
     <ol type="a">
         <li>Air traffic services personnel shall be prepared to recognize any indication of the occurrence of unlawful interference with an aircraft.</li><p></p>
@@ -64,5 +64,5 @@
         <li>ATS units shall not provide any advice or suggestions concerning action to be taken by the flight crew in relation to an explosive device.</li><p></p>
         <li>An aircraft known or believed to be the subject of unlawful interference or which for other reasons needs isolation from normal aerodrome activities shall be cleared to the designated isolated parking position. Where such an isolated parking position has not been designated, or if the designated position is not available, the aircraft shall be cleared to a position within the area or areas selected by prior agreement with the aerodrome authority. The taxi clearance shall specify the taxi route to be followed to the parking position. This route shall be selected with a view to minimizing any security risks to the public, other aircraft and installations at the aerodrome.</li>
     </ol>
-</body>
+</div>
 </html>

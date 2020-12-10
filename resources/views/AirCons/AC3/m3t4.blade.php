@@ -27,8 +27,8 @@
 </style>
 <!DOCTYPE html>
 <html lang="en">
-<body>
-    <h1>Emergency descent</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Emergency descent</h1>
     <hr>
 
     <ol type="a">
@@ -49,7 +49,7 @@
 -->
 
     <hr>
-    <h1>Pilot Incapacity</h1>
+    <h1 style="text-align: center">Pilot Incapacity</h1>
     <hr>
     <ol type="a">
         <li>Determine flight crew’s intentions; most likely they would elect to land at the nearest suitable aerodrome;</li><p></p>
@@ -58,5 +58,5 @@
         <li>they are usually expected to notify other authorities and may assist in the coordination activities with other units/the aerodrome/etc.;</li><p></p>
         <li>Determine crew intentions after landing.</li><p></p>
     </ol>
-</body>
+</div>
 </html>

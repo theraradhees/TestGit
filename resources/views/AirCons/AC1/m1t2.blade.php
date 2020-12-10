@@ -23,7 +23,7 @@
 </style>
 
 <div style="text-align: justify">
-    <h1>Level Occupancy </h1>
+    <h1 style="text-align: center">Level Occupancy </h1>
     <hr>
     <br>
     <ol type="a">

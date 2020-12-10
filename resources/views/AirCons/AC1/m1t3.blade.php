@@ -23,7 +23,7 @@
 </style>
 
 <div style="text-align: justify">
-    <h1>Take appropriate action in case of misidentification</h1>
+    <h1 style="text-align: center">Take appropriate action in case of misidentification</h1>
     <hr>
     <ol type="a">
         <li>Confirm the identification code in case of misidentification; </li>

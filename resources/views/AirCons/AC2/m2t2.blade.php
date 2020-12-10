@@ -22,8 +22,8 @@
     }
 </style>
 
-<div>
-    <h1>Situation Display</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Situation Display</h1>
     <hr>
 
     <ol type="a">

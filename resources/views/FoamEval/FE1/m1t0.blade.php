@@ -23,8 +23,8 @@
     }
 </style>
 
-<div>
-  <h1>Introduction</h1>
+<div style="text-align: justify">
+  <h1 style="text-align: center">Introduction</h1>
   <hr>
   <p>
   For the most part, foam concentrates stored under satisfactory storage conditions and manufactured by reputable companies such as <i>Buckeye Fire Equipment Company</i> should provide years of trouble-free service. 
@@ -54,8 +54,5 @@
   <p>
     <b>Foam Concentrate :</b> This liquid concentrate is supplied from the manufacturer which when mixed with water in the correct proportion forms a foam solution. 
   </p>
-
-
-
 </div>
   </html>

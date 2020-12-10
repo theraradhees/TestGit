@@ -1,8 +1,8 @@
 <!--
 ----------------ATS surveillance system failure---------------
 -->
-<div>
-    <h1>ATS surveillance system failure</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">ATS surveillance system failure</h1>
     <hr>
     <ol type="a">
 <br>
@@ -19,8 +19,8 @@
 <!--
 ------Degradation of aircraft position source data------------
 -->
-<div>
-    <h1>Degradation of aircraft position source data</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">Degradation of aircraft position source data</h1>
     <hr>
     <p>
         In order to reduce the impact of a degradation of aircraft position source data, for example, a receiver autonomous integrity monitoring (RAIM) outage for GNSS, the appropriate ATS authority shall establish contingency procedures to be followed by control positions and ATC units in the event of data degradation.

@@ -21,8 +21,8 @@
     content: "3.2." counter(section) ": ";
     }
 </style>
-<div>
-    <h1>ARFF Vehicle Foam Production Performance Test</h1>
+<div style="text-align: justify">
+    <h1 style="text-align: center">ARFF Vehicle Foam Production Performance Test</h1>
     <hr>
     <p>
         It is essential that the foam produced by an RFF vehicle, or other such appliance, is of an acceptable quality and the delivery parameters such as monitor jet range and pattern meet and are maintained to the appropriate operational requirement. 
@@ -55,7 +55,7 @@
 
     <br>
     <br>
-    <h1>ARFF Vehicle Foam Production Performance Testing Equipment </h1>
+    <h1 style="text-align: center">ARFF Vehicle Foam Production Performance Testing Equipment </h1>
     <hr>
     <h2>Method A (Refractometer or Conductivity Meter)</h2>
     <p>
